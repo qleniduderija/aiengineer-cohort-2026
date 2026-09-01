@@ -11,3 +11,12 @@ Task for WEEK 1 is to build a CLI that takes a natural language question about a
  - The system explicitly prints token counts and per-query cost upon completion.
  - The application handles API errors natively without crashing.
  - The project repository includes a clear and comprehensive README documentation file.
+
+
+ # DEMO QUESTIONS
+ 1. What's the entry point of this CLI?
+ 2. Walk me through what happens between when I hit Enter and when a tool result comes back?
+ 3. How do we calculate the cost of a query?
+ 4. Is there any error handling in the application?
+ 5. Earlier I asked about the entry point — do you remember what you told me, or would you need to look it up again?
+ 6. What is the airspeed velocity of an unladen swallow?
