@@ -1,0 +1,78 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/qleniduderija/aiengineer-cohort-2026/submissions/leniduderija/week-2/extractstructdata/schema.json",
+  "title": "ExtractedDocumentData",
+  "description": "Structured entities, dates, and relationships extracted from a source document (PDF or web page).",
+  "type": "object",
+  "properties": {
+    "entities": {
+      "type": "array",
+      "description": "Named things mentioned in the document (people, organizations, locations, etc.).",
+      "items": {
+        "type": "object",
+        "properties": {
+          "name": {
+            "type": "string",
+            "minLength": 1,
+            "description": "The entity's name as it appears in the document."
+          },
+          "type": {
+            "type": "string",
+            "enum": ["PERSON", "ORGANIZATION", "LOCATION", "EVENT", "PRODUCT", "OTHER"],
+            "description": "The category of entity."
+          },
+          "description": {
+            "type": "string",
+            "description": "A short note on who/what this entity is or how it's relevant, based only on the document."
+          }
+        },
+        "required": ["name", "type"],
+        "additionalProperties": false
+      }
+    },
+    "dates": {
+      "type": "array",
+      "description": "Dates mentioned in the document and what they refer to.",
+      "items": {
+        "type": "object",
+        "properties": {
+          "date": {
+            "type": "string",
+            "description": "ISO 8601 (YYYY-MM-DD) if the date can be fully resolved; otherwise the raw text as it appeared in the document (e.g. 'March 2024', 'last Thursday')."
+          },
+          "description": {
+            "type": "string",
+            "description": "What this date refers to (e.g. 'founding of the company', 'contract signing')."
+          }
+        },
+        "required": ["date", "description"],
+        "additionalProperties": false
+      }
+    },
+    "relationships": {
+      "type": "array",
+      "description": "Relationships between entities, as subject-predicate-object triples.",
+      "items": {
+        "type": "object",
+        "properties": {
+          "subject": {
+            "type": "string",
+            "description": "The entity the relationship starts from. Should match an entity name in the entities list."
+          },
+          "predicate": {
+            "type": "string",
+            "description": "The relationship itself, as a short verb phrase (e.g. 'works for', 'acquired', 'located in')."
+          },
+          "object": {
+            "type": "string",
+            "description": "The entity the relationship points to. Should match an entity name in the entities list."
+          }
+        },
+        "required": ["subject", "predicate", "object"],
+        "additionalProperties": false
+      }
+    }
+  },
+  "required": ["entities", "dates", "relationships"],
+  "additionalProperties": false
+}
