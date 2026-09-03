@@ -2,7 +2,7 @@ from .ingest import read_pdf, fetch_url
 from .tools import call_extraction_tool
 from .validate import validate_extraction
 from .errors import SchemaValidationError
-from .constants import MAX_DOCUMENT_CHARS
+from .constants import MAX_DOCUMENT_CHARS, MAX_TOKENS
 
 
 def ingest_document(source):
@@ -24,6 +24,11 @@ def extract_document(client, model, source):
 
     for attempt in range(2):  # 1 initial try + 1 retry
         response = call_extraction_tool(client, model, messages)
+
+        if response.stop_reason == "max_tokens":
+            raise SchemaValidationError(
+                f"Response was truncated at the {MAX_TOKENS}-token limit before Claude could finish"
+            )
 
         tool_use_block = next(
             (block for block in response.content if block.type == "tool_use"), None
