@@ -1,0 +1,1093 @@
+{
+  "dates": [
+    {
+      "date": "2002-03-14",
+      "description": "Founding of SpaceX in El Segundo, California"
+    },
+    {
+      "date": "2001",
+      "description": "Elon Musk met Robert Zubrin and donated to the Mars Society"
+    },
+    {
+      "date": "2001-08",
+      "description": "Musk gave a plenary talk announcing Mars Oasis project"
+    },
+    {
+      "date": "2002",
+      "description": "Musk started looking for staff for SpaceX"
+    },
+    {
+      "date": "2004",
+      "description": "SpaceX protested NASA's sole-source contract to Kistler Aerospace to the GAO"
+    },
+    {
+      "date": "2005",
+      "description": "SpaceX announced plans for human-rated commercial space program; decided to proceed with Falcon 9 development"
+    },
+    {
+      "date": "2006",
+      "description": "SpaceX awarded $396 million NASA COTS contract; first Falcon 1 launch failure"
+    },
+    {
+      "date": "2008-09-28",
+      "description": "First successful Falcon 1 launch on fourth attempt"
+    },
+    {
+      "date": "2008-12",
+      "description": "NASA awarded SpaceX $1.6 billion Commercial Resupply Services contract"
+    },
+    {
+      "date": "2009-07",
+      "description": "Falcon 1 retired after fifth total, second successful launch"
+    },
+    {
+      "date": "2010-06",
+      "description": "Falcon 9 first launch with Dragon Spacecraft Qualification Unit"
+    },
+    {
+      "date": "2010-12",
+      "description": "First operational Dragon spacecraft launched aboard COTS Demo Flight 1"
+    },
+    {
+      "date": "2011-04",
+      "description": "NASA issued $75 million CCDev contract to SpaceX for launch escape system"
+    },
+    {
+      "date": "2012-08",
+      "description": "NASA awarded SpaceX SAA for crew transportation system design"
+    },
+    {
+      "date": "2012-05",
+      "description": "Dragon C2+ launch, first commercial spacecraft to deliver cargo to ISS"
+    },
+    {
+      "date": "2012",
+      "description": "SpaceX active reusability test program began"
+    },
+    {
+      "date": "2013",
+      "description": "SpaceX launched first commercial mission for private customer; Falcon 9 upgraded to v1.1"
+    },
+    {
+      "date": "2014",
+      "description": "SpaceX won nine of 20 openly competed launch contracts worldwide"
+    },
+    {
+      "date": "2014-09",
+      "description": "NASA awarded SpaceX the CCtCap contract"
+    },
+    {
+      "date": "2015-01",
+      "description": "SpaceX raised $1 billion from Google and Fidelity; announced Starlink constellation"
+    },
+    {
+      "date": "2015-06",
+      "description": "CRS-7 mission exploded two minutes into flight"
+    },
+    {
+      "date": "2015-12",
+      "description": "Falcon 9 Flight 20 - first successful landing and recovery of a first stage"
+    },
+    {
+      "date": "2016-04",
+      "description": "First successful landing on autonomous spaceport drone ship Of Course I Still Love You"
+    },
+    {
+      "date": "2016-09",
+      "description": "Falcon 9 exploded during AMOS-6 static fire test"
+    },
+    {
+      "date": "2017-01",
+      "description": "SpaceX returned to flight after AMOS-6 explosion"
+    },
+    {
+      "date": "2017-03",
+      "description": "SpaceX launched returned Falcon 9 for SES-10, first re-launch of orbital rocket"
+    },
+    {
+      "date": "2017",
+      "description": "SpaceX formed The Boring Company subsidiary; achieved 45% global market share for commercial launches"
+    },
+    {
+      "date": "2017-07",
+      "description": "SpaceX raised $350 million at $21 billion valuation"
+    },
+    {
+      "date": "2018-05",
+      "description": "Boring Company test tunnel completed"
+    },
+    {
+      "date": "2018-12",
+      "description": "Boring Company test tunnel opened to public"
+    },
+    {
+      "date": "2018-02-06",
+      "description": "Falcon Heavy inaugural flight launching Tesla Roadster"
+    },
+    {
+      "date": "2018-03",
+      "description": "SpaceX had more than 100 launches on manifest worth $12 billion"
+    },
+    {
+      "date": "2019-01",
+      "description": "SpaceX announced layoff of 10% of workforce to finance Starlink and Starship"
+    },
+    {
+      "date": "2019",
+      "description": "SpaceX raised $1.33 billion across three funding rounds; Starship prototype construction started"
+    },
+    {
+      "date": "2019-05",
+      "description": "SpaceX valuation risen to $33.3 billion; first large batch of 60 Starlink satellites launched"
+    },
+    {
+      "date": "2020-03",
+      "description": "SpaceX valuation reached $36 billion; Dragon XL revealed"
+    },
+    {
+      "date": "2020-08-19",
+      "description": "SpaceX valuation increased to $46 billion after $1.9 billion raise"
+    },
+    {
+      "date": "2020-05",
+      "description": "Crew Dragon Demo-2 launched with NASA astronauts Doug Hurley and Bob Behnken"
+    },
+    {
+      "date": "2021-02",
+      "description": "SpaceX raised $1.61 billion, valuation to ~$74 billion"
+    },
+    {
+      "date": "2021",
+      "description": "SpaceX had raised more than $6 billion total by this year"
+    },
+    {
+      "date": "2021-10",
+      "description": "SpaceX valuation grew to $100.3 billion"
+    },
+    {
+      "date": "2021-04-16",
+      "description": "Starship HLS won NASA Artemis program contract"
+    },
+    {
+      "date": "2021",
+      "description": "SpaceX entered agreements with Google Cloud Platform and Microsoft Azure for Starlink"
+    },
+    {
+      "date": "2022",
+      "description": "Funding round valued SpaceX at $127 billion"
+    },
+    {
+      "date": "2021-07",
+      "description": "SpaceX unveiled drone ship A Shortfall of Gravitas"
+    },
+    {
+      "date": "2021-08-29",
+      "description": "A Shortfall of Gravitas first landed CRS-23"
+    },
+    {
+      "date": "2021-12-13",
+      "description": "Musk announced carbon dioxide removal program"
+    },
+    {
+      "date": "2022",
+      "description": "SpaceX launched 61 rockets in total, most for a single vehicle type in a year; most launches focused on Starlink"
+    },
+    {
+      "date": "2022-08",
+      "description": "ESA began discussions with SpaceX to substitute Russian launches"
+    },
+    {
+      "date": "2023-11",
+      "description": "SpaceX announced acquisition of Pioneer Aerospace for $2.2 million"
+    },
+    {
+      "date": "2024",
+      "description": "SpaceX moved headquarters from Hawthorne, California to Starbase, Texas"
+    },
+    {
+      "date": "2024",
+      "description": "Polaris Dawn mission featured first private spacewalk"
+    },
+    {
+      "date": "2025-07",
+      "description": "SpaceX agreed to invest $2 billion in xAI as part of $5 billion equity raise"
+    },
+    {
+      "date": "2021-07-16",
+      "description": "SpaceX agreed to acquire Swarm Technologies for $524 million"
+    },
+    {
+      "date": "2022-12",
+      "description": "FCC approved launch of up to 7,500 next-gen Starlink satellites; SpaceX announced Starshield"
+    },
+    {
+      "date": "2025-09",
+      "description": "SpaceX agreed to purchase EchoStar spectrum rights for $17 billion"
+    },
+    {
+      "date": "2022-02",
+      "description": "SpaceX activated Starlink service in Ukraine"
+    },
+    {
+      "date": "2023-06",
+      "description": "Starlink expenses for Ukraine covered by US Department of Defense"
+    },
+    {
+      "date": "2023-12",
+      "description": "Poland was largest contributor of Starlink terminals for Ukraine"
+    },
+    {
+      "date": "2026-02",
+      "description": "Starlink eliminated service to non-whitelisted terminals in Ukraine"
+    },
+    {
+      "date": "2023-04-20",
+      "description": "Starship's first orbital flight test ended in mid-air explosion"
+    },
+    {
+      "date": "2023-10",
+      "description": "SpaceX executive said company ready to launch next Starship test since September"
+    },
+    {
+      "date": "2023-11-18",
+      "description": "Starship second flight test launched"
+    },
+    {
+      "date": "2024-03-14",
+      "description": "Starship launched for third time, reached planned suborbital trajectory"
+    },
+    {
+      "date": "2024-03-13",
+      "description": "FAA granted launch license for Starship third flight test"
+    },
+    {
+      "date": "2024-06-04",
+      "description": "SpaceX received launch license for Starship's fourth flight test"
+    },
+    {
+      "date": "2024-10-12",
+      "description": "SpaceX received FAA approval for Starship's fifth flight test"
+    },
+    {
+      "date": "2024-11-19",
+      "description": "Starship sixth flight test launched"
+    },
+    {
+      "date": "2025-01-16",
+      "description": "Starship seventh flight test launched with Ship 33"
+    },
+    {
+      "date": "2025-01-18",
+      "description": "FAA required mishap investigation of Starship seventh flight test failure"
+    },
+    {
+      "date": "2025-03-07",
+      "description": "Starship launched from Texas, contact lost minutes into flight"
+    },
+    {
+      "date": "2025-06-18",
+      "description": "SpaceX Starship rocket exploded during static fire test at Starbase"
+    },
+    {
+      "date": "2026-05-22",
+      "description": "SpaceX launched twelfth flight test of Starship, first V3 vehicle flight"
+    },
+    {
+      "date": "2026-02-02",
+      "description": "SpaceX announced acquisition of xAI"
+    },
+    {
+      "date": "2026-03",
+      "description": "SpaceX announced Terafab project with Tesla and xAI"
+    },
+    {
+      "date": "2026-05",
+      "description": "Anthropic signed $1.25 billion per month contract with xAI"
+    },
+    {
+      "date": "2026-06",
+      "description": "Google and SpaceX agreed on computational rent agreement per securities filing"
+    },
+    {
+      "date": "2026-05-15",
+      "description": "SpaceX received FAA approval for Starfall capsule"
+    },
+    {
+      "date": "2025-12",
+      "description": "Elon Musk confirmed SpaceX would go public"
+    },
+    {
+      "date": "2026-01",
+      "description": "Four banks selected to lead SpaceX IPO"
+    },
+    {
+      "date": "2026-05-20",
+      "description": "SpaceX filed for IPO on Nasdaq under ticker SPCX"
+    },
+    {
+      "date": "2026-06-11",
+      "description": "SpaceX priced IPO at $135 per share, valuation $1.77 trillion"
+    },
+    {
+      "date": "2026-06-12",
+      "description": "SpaceX IPO raised $86 billion, began trading on Nasdaq, largest IPO in history"
+    },
+    {
+      "date": "2026-08",
+      "description": "Nvidia announced Starmind satellite compute based on Vera Rubin system"
+    },
+    {
+      "date": "2009",
+      "description": "Falcon 1 retired"
+    },
+    {
+      "date": "2010-06-04",
+      "description": "Falcon 9 v1.0 successfully reached orbit on first attempt"
+    },
+    {
+      "date": "2012-05-22",
+      "description": "COTS Demo Flight 2 launched, first commercial spacecraft to dock with ISS"
+    },
+    {
+      "date": "2013",
+      "description": "Falcon 9 v1.1 upgrade"
+    },
+    {
+      "date": "2015",
+      "description": "Falcon 9 Full Thrust upgrade; Starlink development began"
+    },
+    {
+      "date": "2018",
+      "description": "Falcon 9 Block 5 upgrade"
+    },
+    {
+      "date": "2026-08-30",
+      "description": "Falcon 9 and Falcon Heavy launched 696 times total"
+    },
+    {
+      "date": "2017",
+      "description": "Starlink prototype test-flight satellites launched on Paz mission"
+    },
+    {
+      "date": "2020",
+      "description": "Initial test operation of Starlink constellation began late in year"
+    },
+    {
+      "date": "2021",
+      "description": "First Starlink orders taken early in year"
+    },
+    {
+      "date": "2022-12",
+      "description": "Starlink reached over 1 million subscribers worldwide"
+    },
+    {
+      "date": "2024-06",
+      "description": "SpaceX introduced Starlink Mini antenna"
+    },
+    {
+      "date": "2024-08",
+      "description": "Texas Commission on Environmental Quality cited SpaceX for environmental violations; Hawthorne facility ceased being HQ"
+    },
+    {
+      "date": "2014-04-14",
+      "description": "SpaceX signed 20-year lease for KSC Launch Complex 39A"
+    },
+    {
+      "date": "2020-05-30",
+      "description": "SpaceX launched first crewed mission to ISS from Launch Pad 39A"
+    },
+    {
+      "date": "2019",
+      "description": "Pad 39A preparation for Starship launches began"
+    },
+    {
+      "date": "2022",
+      "description": "39A Starship preparation accelerated"
+    },
+    {
+      "date": "2007-04",
+      "description": "Pentagon approved SpaceX use of Cape Canaveral SLC-40"
+    },
+    {
+      "date": "2010",
+      "description": "SLC-40 used since this year for Falcon 9 launches"
+    },
+    {
+      "date": "2015",
+      "description": "Landing Zones 1 and 2 used from this year"
+    },
+    {
+      "date": "2026",
+      "description": "Landing Zones 1 and 2 retired"
+    },
+    {
+      "date": "2011",
+      "description": "Vandenberg SLC-4E leased from military"
+    },
+    {
+      "date": "2015",
+      "description": "SLC-4W converted to Landing Zone 4"
+    },
+    {
+      "date": "2006",
+      "description": "SpaceX won NASA COTS Phase 1 contract"
+    },
+    {
+      "date": "2010-12",
+      "description": "SpaceX COTS Demo Flight 1, first private company to launch, orbit, recover a spacecraft"
+    },
+    {
+      "date": "2012-05",
+      "description": "Dragon berthed with ISS during COTS Demo Flight 2"
+    },
+    {
+      "date": "2008",
+      "description": "First CRS contracts signed, awarding $1.6 billion to SpaceX for 12 cargo missions"
+    },
+    {
+      "date": "2012-10",
+      "description": "SpaceX CRS-1 launched"
+    },
+    {
+      "date": "2015",
+      "description": "NASA extended Phase 1 contracts with additional resupply flights"
+    },
+    {
+      "date": "2020-04",
+      "description": "Final Dragon 1 mission, SpaceX CRS-20, departed ISS"
+    },
+    {
+      "date": "2016-01",
+      "description": "Second phase of CRS contracts awarded"
+    },
+    {
+      "date": "2020-03",
+      "description": "NASA contracted SpaceX to develop Dragon XL spacecraft"
+    },
+    {
+      "date": "2011",
+      "description": "First Commercial Crew Development contract awarded to SpaceX"
+    },
+    {
+      "date": "2012",
+      "description": "Second CCDev contract awarded to SpaceX"
+    },
+    {
+      "date": "2014-09",
+      "description": "NASA chose SpaceX and Boeing for Commercial Crew Program"
+    },
+    {
+      "date": "2015-05",
+      "description": "SpaceX completed Pad Abort Test of Crew Dragon"
+    },
+    {
+      "date": "2019-03",
+      "description": "SpaceX conducted full uncrewed Crew Dragon test flight"
+    },
+    {
+      "date": "2020-01",
+      "description": "SpaceX conducted in-flight abort test"
+    },
+    {
+      "date": "2020-05-30",
+      "description": "Crew Dragon Demo-2 launched with Bob Behnken and Doug Hurley"
+    },
+    {
+      "date": "2020-11-16",
+      "description": "Crew-1 mission launched to ISS"
+    },
+    {
+      "date": "2021-04-23",
+      "description": "Crew-2 launched to ISS"
+    }
+  ],
+  "entities": [
+    {
+      "name": "SpaceX",
+      "type": "ORGANIZATION",
+      "description": "American aerospace manufacturer and space transportation, telecommunications, and AI services provider"
+    },
+    {
+      "name": "Elon Musk",
+      "type": "PERSON",
+      "description": "Founder, CEO, and board chair of SpaceX"
+    },
+    {
+      "name": "SpaceXAI",
+      "type": "ORGANIZATION",
+      "description": "Wholly owned subsidiary of SpaceX that develops Grok AI models and operates X"
+    },
+    {
+      "name": "Starlink",
+      "type": "PRODUCT",
+      "description": "Satellite internet constellation operated by SpaceX"
+    },
+    {
+      "name": "xAI",
+      "type": "ORGANIZATION",
+      "description": "Artificial intelligence company founded by Musk, acquired by SpaceX in 2026"
+    },
+    {
+      "name": "Falcon 1",
+      "type": "PRODUCT",
+      "description": "SpaceX's first orbital launch vehicle"
+    },
+    {
+      "name": "Falcon 9",
+      "type": "PRODUCT",
+      "description": "SpaceX's medium-lift reusable launch vehicle"
+    },
+    {
+      "name": "Falcon Heavy",
+      "type": "PRODUCT",
+      "description": "SpaceX's heavy-lift launch vehicle using three Falcon 9 cores"
+    },
+    {
+      "name": "Starship",
+      "type": "PRODUCT",
+      "description": "SpaceX's fully reusable super-heavy lift launch system"
+    },
+    {
+      "name": "Dragon spacecraft",
+      "type": "PRODUCT",
+      "description": "SpaceX spacecraft used to transport cargo and crew to the ISS"
+    },
+    {
+      "name": "Dragon 2",
+      "type": "PRODUCT",
+      "description": "Second-generation Dragon spacecraft used for crew and cargo"
+    },
+    {
+      "name": "Dragon XL",
+      "type": "PRODUCT",
+      "description": "Resupply spacecraft designed for NASA's Lunar Gateway"
+    },
+    {
+      "name": "NASA",
+      "type": "ORGANIZATION",
+      "description": "US space agency and major SpaceX customer"
+    },
+    {
+      "name": "United States Space Force",
+      "type": "ORGANIZATION",
+      "description": "One of SpaceX's largest customers"
+    },
+    {
+      "name": "National Reconnaissance Office",
+      "type": "ORGANIZATION",
+      "description": "One of SpaceX's largest customers"
+    },
+    {
+      "name": "The Boring Company",
+      "type": "ORGANIZATION",
+      "description": "SpaceX subsidiary spun out into separate corporate entity"
+    },
+    {
+      "name": "Tesla, Inc.",
+      "type": "ORGANIZATION",
+      "description": "Company also led by Musk, joint venture partner with SpaceX on Terafab"
+    },
+    {
+      "name": "Terafab",
+      "type": "PRODUCT",
+      "description": "Large semiconductor fabrication plant joint venture between SpaceX, Tesla, and xAI"
+    },
+    {
+      "name": "Robert Zubrin",
+      "type": "PERSON",
+      "description": "Founder of the Mars Society, met with Musk in 2001"
+    },
+    {
+      "name": "Mars Society",
+      "type": "ORGANIZATION",
+      "description": "Organization Musk donated to and briefly joined the board of"
+    },
+    {
+      "name": "Jim Cantrell",
+      "type": "PERSON",
+      "description": "Provided Russian contacts for Musk's Dnepr launch vehicle attempt, later founded Vector Launch"
+    },
+    {
+      "name": "Michael D. Griffin",
+      "type": "PERSON",
+      "description": "Later became 11th Administrator of NASA, traveled with Musk to Moscow"
+    },
+    {
+      "name": "John Garvey",
+      "type": "PERSON",
+      "description": "Approached for initial SpaceX position, co-founded Vector Launch with Cantrell"
+    },
+    {
+      "name": "Tom Mueller",
+      "type": "PERSON",
+      "description": "Rocket engineer and early SpaceX employee, CTO"
+    },
+    {
+      "name": "Chris Thompson",
+      "type": "PERSON",
+      "description": "Early SpaceX employee, VP of Operations"
+    },
+    {
+      "name": "Gwynne Shotwell",
+      "type": "PERSON",
+      "description": "SpaceX COO and company president"
+    },
+    {
+      "name": "Kistler Aerospace",
+      "type": "ORGANIZATION",
+      "description": "Company awarded sole-source NASA contract that SpaceX protested"
+    },
+    {
+      "name": "Government Accountability Office",
+      "type": "ORGANIZATION",
+      "description": "US government office SpaceX filed protest with"
+    },
+    {
+      "name": "Bill Gerstenmaier",
+      "type": "PERSON",
+      "description": "NASA Associate Administrator who negotiated CRS contract with Shotwell"
+    },
+    {
+      "name": "United Launch Alliance",
+      "type": "ORGANIZATION",
+      "description": "Large US launch provider that dominated military payload launches"
+    },
+    {
+      "name": "Arianespace",
+      "type": "ORGANIZATION",
+      "description": "European launch provider that requested subsidies due to SpaceX competition"
+    },
+    {
+      "name": "Kevin Crigler",
+      "type": "PERSON",
+      "description": "NASA's Director of Commercial Spaceflight who awarded SpaceX the CCtCap contract"
+    },
+    {
+      "name": "AMOS-6",
+      "type": "PRODUCT",
+      "description": "Communications satellite destroyed in 2016 Falcon 9 explosion"
+    },
+    {
+      "name": "International Space Station",
+      "type": "LOCATION",
+      "description": "Space station serviced by SpaceX cargo and crew missions"
+    },
+    {
+      "name": "Doug Hurley",
+      "type": "PERSON",
+      "description": "NASA astronaut on Crew Dragon Demo-2"
+    },
+    {
+      "name": "Bob Behnken",
+      "type": "PERSON",
+      "description": "NASA astronaut on Crew Dragon Demo-2"
+    },
+    {
+      "name": "Kennedy Space Center",
+      "type": "LOCATION",
+      "description": "Florida launch site used by SpaceX"
+    },
+    {
+      "name": "Swarm Technologies",
+      "type": "ORGANIZATION",
+      "description": "Private company acquired by SpaceX building IoT satellite constellation"
+    },
+    {
+      "name": "EchoStar",
+      "type": "ORGANIZATION",
+      "description": "Company whose spectrum rights SpaceX agreed to purchase"
+    },
+    {
+      "name": "Pioneer Aerospace",
+      "type": "ORGANIZATION",
+      "description": "SpaceX's parachute supplier acquired out of bankruptcy"
+    },
+    {
+      "name": "Cursor",
+      "type": "ORGANIZATION",
+      "description": "AI-assisted software development startup SpaceX agreed to acquire"
+    },
+    {
+      "name": "Anthropic",
+      "type": "ORGANIZATION",
+      "description": "Company that signed compute contract with xAI"
+    },
+    {
+      "name": "Google",
+      "type": "ORGANIZATION",
+      "description": "Company that agreed to computational rent agreement with SpaceX, also early Starlink investor"
+    },
+    {
+      "name": "Microsoft Azure",
+      "type": "ORGANIZATION",
+      "description": "Company SpaceX partnered with for Starlink ground services"
+    },
+    {
+      "name": "Nvidia",
+      "type": "ORGANIZATION",
+      "description": "Chip company whose products power Starmind and are used in Google-SpaceX deal"
+    },
+    {
+      "name": "Starmind",
+      "type": "PRODUCT",
+      "description": "Solar-powered space-based data center satellite developed by SpaceXAI"
+    },
+    {
+      "name": "Starbase",
+      "type": "LOCATION",
+      "description": "SpaceX headquarters and Starship manufacturing/launch site near Brownsville, Texas"
+    },
+    {
+      "name": "Hawthorne, California",
+      "type": "LOCATION",
+      "description": "Former SpaceX headquarters facility"
+    },
+    {
+      "name": "McGregor, Texas",
+      "type": "LOCATION",
+      "description": "SpaceX rocket engine development and test facility"
+    },
+    {
+      "name": "Cape Canaveral Space Force Station",
+      "type": "LOCATION",
+      "description": "SpaceX Falcon launch site in Florida"
+    },
+    {
+      "name": "Vandenberg Space Force Base",
+      "type": "LOCATION",
+      "description": "SpaceX Falcon launch site in California"
+    },
+    {
+      "name": "Falcon 9 Flight 20",
+      "type": "EVENT",
+      "description": "First successful landing of an orbital-class rocket first stage"
+    },
+    {
+      "name": "SES-10",
+      "type": "EVENT",
+      "description": "First reflight of an orbital-class booster"
+    },
+    {
+      "name": "Crew Dragon Demo-2",
+      "type": "EVENT",
+      "description": "First crewed SpaceX mission to ISS"
+    },
+    {
+      "name": "Polaris Dawn",
+      "type": "EVENT",
+      "description": "2024 SpaceX mission featuring first private spacewalk"
+    },
+    {
+      "name": "Cameron County Judge Eddie Trevi\u00f1o Jr.",
+      "type": "PERSON",
+      "description": "Contacted federal and state offices about Starbase explosion investigation"
+    },
+    {
+      "name": "Helen Ramirez",
+      "type": "PERSON",
+      "description": "Brownsville City Manager who commented on fire department capabilities"
+    },
+    {
+      "name": "Federal Communications Commission",
+      "type": "ORGANIZATION",
+      "description": "US regulator that approved next-gen Starlink satellite launches"
+    },
+    {
+      "name": "Federal Aviation Administration",
+      "type": "ORGANIZATION",
+      "description": "US regulator overseeing SpaceX launch licenses and mishap investigations"
+    },
+    {
+      "name": "Occupational Safety and Health Administration",
+      "type": "ORGANIZATION",
+      "description": "US agency that fined SpaceX for a crane collapse safety violation"
+    },
+    {
+      "name": "Boeing",
+      "type": "ORGANIZATION",
+      "description": "Aerospace company, competitor and former employer of early SpaceX staff"
+    }
+  ],
+  "relationships": [
+    {
+      "subject": "Elon Musk",
+      "predicate": "founded",
+      "object": "SpaceX"
+    },
+    {
+      "subject": "Elon Musk",
+      "predicate": "owns 39% of shares of",
+      "object": "SpaceX"
+    },
+    {
+      "subject": "Elon Musk",
+      "predicate": "controls 84% voting power of",
+      "object": "SpaceX"
+    },
+    {
+      "subject": "Elon Musk",
+      "predicate": "founded",
+      "object": "xAI"
+    },
+    {
+      "subject": "SpaceX",
+      "predicate": "acquired",
+      "object": "xAI"
+    },
+    {
+      "subject": "SpaceXAI",
+      "predicate": "is subsidiary of",
+      "object": "SpaceX"
+    },
+    {
+      "subject": "SpaceXAI",
+      "predicate": "operates",
+      "object": "Starlink"
+    },
+    {
+      "subject": "SpaceXAI",
+      "predicate": "developing",
+      "object": "Starmind"
+    },
+    {
+      "subject": "SpaceX",
+      "predicate": "develops",
+      "object": "Falcon 9"
+    },
+    {
+      "subject": "SpaceX",
+      "predicate": "develops",
+      "object": "Falcon Heavy"
+    },
+    {
+      "subject": "SpaceX",
+      "predicate": "develops",
+      "object": "Starship"
+    },
+    {
+      "subject": "SpaceX",
+      "predicate": "develops",
+      "object": "Dragon spacecraft"
+    },
+    {
+      "subject": "SpaceX",
+      "predicate": "operates",
+      "object": "Starlink"
+    },
+    {
+      "subject": "SpaceX",
+      "predicate": "announced joint venture for",
+      "object": "Terafab"
+    },
+    {
+      "subject": "Tesla, Inc.",
+      "predicate": "partners with",
+      "object": "Terafab"
+    },
+    {
+      "subject": "SpaceX",
+      "predicate": "acquired",
+      "object": "Swarm Technologies"
+    },
+    {
+      "subject": "SpaceX",
+      "predicate": "acquired",
+      "object": "Pioneer Aerospace"
+    },
+    {
+      "subject": "SpaceX",
+      "predicate": "agreed to acquire",
+      "object": "Cursor"
+    },
+    {
+      "subject": "SpaceX",
+      "predicate": "agreed to purchase spectrum from",
+      "object": "EchoStar"
+    },
+    {
+      "subject": "Anthropic",
+      "predicate": "signed contract with",
+      "object": "xAI"
+    },
+    {
+      "subject": "Google",
+      "predicate": "agreed to pay",
+      "object": "SpaceX"
+    },
+    {
+      "subject": "Elon Musk",
+      "predicate": "met",
+      "object": "Robert Zubrin"
+    },
+    {
+      "subject": "Elon Musk",
+      "predicate": "donated to",
+      "object": "Mars Society"
+    },
+    {
+      "subject": "Jim Cantrell",
+      "predicate": "provided contacts to",
+      "object": "Elon Musk"
+    },
+    {
+      "subject": "Jim Cantrell",
+      "predicate": "co-founded",
+      "object": "SpaceX"
+    },
+    {
+      "subject": "John Garvey",
+      "predicate": "co-founded Vector Launch with",
+      "object": "Jim Cantrell"
+    },
+    {
+      "subject": "Michael D. Griffin",
+      "predicate": "traveled with",
+      "object": "Elon Musk"
+    },
+    {
+      "subject": "Tom Mueller",
+      "predicate": "worked for",
+      "object": "SpaceX"
+    },
+    {
+      "subject": "Chris Thompson",
+      "predicate": "worked for",
+      "object": "SpaceX"
+    },
+    {
+      "subject": "Gwynne Shotwell",
+      "predicate": "works for",
+      "object": "SpaceX"
+    },
+    {
+      "subject": "Gwynne Shotwell",
+      "predicate": "negotiated CRS contract with",
+      "object": "Bill Gerstenmaier"
+    },
+    {
+      "subject": "SpaceX",
+      "predicate": "protested contract awarded to",
+      "object": "Kistler Aerospace"
+    },
+    {
+      "subject": "SpaceX",
+      "predicate": "filed protest with",
+      "object": "Government Accountability Office"
+    },
+    {
+      "subject": "SpaceX",
+      "predicate": "competes with",
+      "object": "United Launch Alliance"
+    },
+    {
+      "subject": "SpaceX",
+      "predicate": "competes with",
+      "object": "Arianespace"
+    },
+    {
+      "subject": "Kevin Crigler",
+      "predicate": "awarded contract to",
+      "object": "SpaceX"
+    },
+    {
+      "subject": "AMOS-6",
+      "predicate": "destroyed in explosion of",
+      "object": "SpaceX"
+    },
+    {
+      "subject": "SpaceX",
+      "predicate": "contracted with",
+      "object": "NASA"
+    },
+    {
+      "subject": "SpaceX",
+      "predicate": "serves as customer for",
+      "object": "United States Space Force"
+    },
+    {
+      "subject": "SpaceX",
+      "predicate": "serves as customer for",
+      "object": "National Reconnaissance Office"
+    },
+    {
+      "subject": "SpaceX",
+      "predicate": "formed subsidiary",
+      "object": "The Boring Company"
+    },
+    {
+      "subject": "Doug Hurley",
+      "predicate": "flew on",
+      "object": "Crew Dragon Demo-2"
+    },
+    {
+      "subject": "Bob Behnken",
+      "predicate": "flew on",
+      "object": "Crew Dragon Demo-2"
+    },
+    {
+      "subject": "Crew Dragon Demo-2",
+      "predicate": "launched from",
+      "object": "Kennedy Space Center"
+    },
+    {
+      "subject": "SpaceX",
+      "predicate": "headquartered at",
+      "object": "Starbase"
+    },
+    {
+      "subject": "SpaceX",
+      "predicate": "previously headquartered at",
+      "object": "Hawthorne, California"
+    },
+    {
+      "subject": "SpaceX",
+      "predicate": "operates facility in",
+      "object": "McGregor, Texas"
+    },
+    {
+      "subject": "SpaceX",
+      "predicate": "launches from",
+      "object": "Cape Canaveral Space Force Station"
+    },
+    {
+      "subject": "SpaceX",
+      "predicate": "launches from",
+      "object": "Vandenberg Space Force Base"
+    },
+    {
+      "subject": "Gwynne Shotwell",
+      "predicate": "maintains office at",
+      "object": "McGregor, Texas"
+    },
+    {
+      "subject": "Cameron County Judge Eddie Trevi\u00f1o Jr.",
+      "predicate": "investigated explosion at",
+      "object": "Starbase"
+    },
+    {
+      "subject": "Helen Ramirez",
+      "predicate": "commented on",
+      "object": "Starbase"
+    },
+    {
+      "subject": "Occupational Safety and Health Administration",
+      "predicate": "fined",
+      "object": "SpaceX"
+    },
+    {
+      "subject": "Federal Aviation Administration",
+      "predicate": "granted launch license to",
+      "object": "SpaceX"
+    },
+    {
+      "subject": "Federal Communications Commission",
+      "predicate": "approved satellites for",
+      "object": "Starlink"
+    },
+    {
+      "subject": "Nvidia",
+      "predicate": "supplies compute for",
+      "object": "Starmind"
+    }
+  ]
+}

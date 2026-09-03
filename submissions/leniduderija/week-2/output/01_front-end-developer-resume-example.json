@@ -1,0 +1,107 @@
+{
+  "dates": [
+    {
+      "date": "2020-05",
+      "description": "Start of Johann Bach's role as Front-End Developer at HubSpot"
+    },
+    {
+      "date": "2021-06",
+      "description": "End of Johann Bach's role as Front-End Developer at HubSpot"
+    },
+    {
+      "date": "2018-07",
+      "description": "Start of Johann Bach's role as Software Engineer I at Zillow"
+    },
+    {
+      "date": "2020-03",
+      "description": "End of Johann Bach's role as Software Engineer I at Zillow"
+    },
+    {
+      "date": "2014",
+      "description": "Start of Johann Bach's Bachelor of Science in Computer Science at University of Oregon"
+    },
+    {
+      "date": "2018",
+      "description": "Completion of Johann Bach's Bachelor of Science in Computer Science at University of Oregon"
+    }
+  ],
+  "entities": [
+    {
+      "name": "Johann Bach",
+      "type": "PERSON",
+      "description": "Front-End Developer seeking a role at Redfin, with prior experience at Zillow and HubSpot."
+    },
+    {
+      "name": "HubSpot",
+      "type": "ORGANIZATION",
+      "description": "Company where Johann Bach worked as a Front-End Developer from 2020 to 2021."
+    },
+    {
+      "name": "Zillow",
+      "type": "ORGANIZATION",
+      "description": "Company where Johann Bach worked as a Software Engineer I from 2018 to 2020."
+    },
+    {
+      "name": "Redfin",
+      "type": "ORGANIZATION",
+      "description": "Company Johann Bach aspires to work for on a larger development team."
+    },
+    {
+      "name": "University of Oregon",
+      "type": "ORGANIZATION",
+      "description": "University where Johann Bach earned a Bachelor of Science in Computer Science."
+    },
+    {
+      "name": "Zestimate",
+      "type": "PRODUCT",
+      "description": "Real estate valuation tool designed and developed by Johann Bach at Zillow, managing 600k+ valuations per month."
+    },
+    {
+      "name": "Portland, OR",
+      "type": "LOCATION",
+      "description": "Location of Johann Bach and of his role at Zillow."
+    },
+    {
+      "name": "Eugene, OR",
+      "type": "LOCATION",
+      "description": "Location of University of Oregon."
+    }
+  ],
+  "relationships": [
+    {
+      "subject": "Johann Bach",
+      "predicate": "worked for",
+      "object": "HubSpot"
+    },
+    {
+      "subject": "Johann Bach",
+      "predicate": "worked for",
+      "object": "Zillow"
+    },
+    {
+      "subject": "Johann Bach",
+      "predicate": "aspires to work for",
+      "object": "Redfin"
+    },
+    {
+      "subject": "Johann Bach",
+      "predicate": "studied at",
+      "object": "University of Oregon"
+    },
+    {
+      "subject": "Johann Bach",
+      "predicate": "designed and developed",
+      "object": "Zestimate"
+    },
+    {
+      "subject": "Zillow",
+      "predicate": "located in",
+      "object": "Portland, OR"
+    },
+    {
+      "subject": "University of Oregon",
+      "predicate": "located in",
+      "object": "Eugene, OR"
+    }
+  ]
+}

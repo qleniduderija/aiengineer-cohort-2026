@@ -1,0 +1,850 @@
+{
+  "dates": [
+    {
+      "date": "1969-07-16",
+      "description": "Launch date of Apollo 11 from Kennedy Space Center at 13:32:00 UTC"
+    },
+    {
+      "date": "1969-07-24",
+      "description": "Landing/splashdown date of Apollo 11 in the Pacific Ocean at 16:50:35 UTC"
+    },
+    {
+      "date": "1969-07-19",
+      "description": "Epoch of orbital parameters; also date Apollo 11 entered lunar orbit at 17:21:50 UTC"
+    },
+    {
+      "date": "1969-07-22",
+      "description": "Orbital departure from lunar orbit at 04:55:42 UTC"
+    },
+    {
+      "date": "1969-07-20",
+      "description": "Lunar landing date of Eagle at 20:17:40 UTC and moonwalk"
+    },
+    {
+      "date": "1969-07-21",
+      "description": "Return launch of Eagle from the Moon at 17:54:00 UTC; also docking with ascent stage and Luna 15 crash date"
+    },
+    {
+      "date": "1969-07-16",
+      "description": "Docking with Lunar module date at 16:56:03 UTC"
+    },
+    {
+      "date": "1969-07-20",
+      "description": "Undocking date with Lunar module at 17:44:00 UTC"
+    },
+    {
+      "date": "1957-10-04",
+      "description": "Soviet Union launched Sputnik 1, the first artificial satellite"
+    },
+    {
+      "date": "1961-04-12",
+      "description": "Yuri Gagarin became the first person in space"
+    },
+    {
+      "date": "1961-05-05",
+      "description": "Alan Shepard became the first American in space"
+    },
+    {
+      "date": "1961-05-25",
+      "description": "Kennedy addressed Congress on 'Urgent National Needs' declaring goal to land a man on the Moon"
+    },
+    {
+      "date": "1962-09-12",
+      "description": "Kennedy delivered his 'We choose to go to the Moon' speech at Rice University"
+    },
+    {
+      "date": "1961-06",
+      "description": "Kennedy met with Khrushchev and proposed a joint Moon project"
+    },
+    {
+      "date": "1963-09-20",
+      "description": "Kennedy again proposed a joint Moon expedition in a speech to the UN General Assembly"
+    },
+    {
+      "date": "1962-07",
+      "description": "NASA head James Webb announced lunar orbit rendezvous would be used"
+    },
+    {
+      "date": "1967-01-27",
+      "description": "Apollo 1 launchpad fire killed Grissom, White, and Chaffee"
+    },
+    {
+      "date": "1968-10",
+      "description": "Apollo 7 evaluated the command module in Earth orbit"
+    },
+    {
+      "date": "1968-12",
+      "description": "Apollo 8 tested the command module in lunar orbit"
+    },
+    {
+      "date": "1969-03",
+      "description": "Apollo 9 tested the lunar module in Earth orbit"
+    },
+    {
+      "date": "1969-05",
+      "description": "Apollo 10 conducted a dress rehearsal in lunar orbit"
+    },
+    {
+      "date": "1969-07-13",
+      "description": "Soviet Union launched Luna 15 probe"
+    },
+    {
+      "date": "2009-07",
+      "description": "Release of Luna 15 transmission recordings for 40th anniversary of Apollo 11"
+    },
+    {
+      "date": "1967-11-20",
+      "description": "Initial crew assignment of Armstrong, Lovell, and Aldrin as backup crew for Apollo 9 officially announced"
+    },
+    {
+      "date": "1988",
+      "description": "STS-26 mission, next after Apollo 11 with all-experienced crew"
+    },
+    {
+      "date": "1969",
+      "description": "Anders accepted job with National Aeronautics and Space Council effective August 1969"
+    },
+    {
+      "date": "1968-02-08",
+      "description": "NASA's Apollo Site Selection Board announced five potential landing sites"
+    },
+    {
+      "date": "1969-05",
+      "description": "Apollo 10's lunar module flew within 15 km of Site 2"
+    },
+    {
+      "date": "1969-04-14",
+      "description": "Press conference announcing Armstrong would be first to walk on the Moon"
+    },
+    {
+      "date": "1969-01-08",
+      "description": "Ascent stage of LM-5 Eagle arrived at Kennedy Space Center"
+    },
+    {
+      "date": "1969-01-23",
+      "description": "CSM-107 Columbia arrived at Kennedy Space Center"
+    },
+    {
+      "date": "1969-01-29",
+      "description": "CSM was mated"
+    },
+    {
+      "date": "1969-04-14",
+      "description": "CSM moved from Operations and Checkout Building to Vehicle Assembly Building"
+    },
+    {
+      "date": "1969-01-18",
+      "description": "S-IVB third stage of Saturn V arrived"
+    },
+    {
+      "date": "1969-02-06",
+      "description": "S-II second stage arrived"
+    },
+    {
+      "date": "1969-02-20",
+      "description": "S-IC first stage arrived"
+    },
+    {
+      "date": "1969-02-27",
+      "description": "Saturn V Instrument Unit arrived"
+    },
+    {
+      "date": "1969-05-20",
+      "description": "Saturn V assembly departed Vehicle Assembly Building for Launch Pad 39A"
+    },
+    {
+      "date": "1969-06-26",
+      "description": "Countdown test commenced"
+    },
+    {
+      "date": "1969-07-02",
+      "description": "Countdown test concluded"
+    },
+    {
+      "date": "1969-07-15",
+      "description": "Launch complex floodlit; mobile service structure carried back to parking area"
+    },
+    {
+      "date": "1865",
+      "description": "Publication of Jules Verne's novel 'From the Earth to the Moon' referencing the Columbiad cannon"
+    },
+    {
+      "date": "1971",
+      "description": "Eisenhower dollar coin released using the eagle from the Apollo 11 patch design"
+    },
+    {
+      "date": "1979",
+      "description": "Susan B. Anthony dollar unveiled using the same eagle design"
+    },
+    {
+      "date": "1976",
+      "description": "Collins' book published referencing Columbia name origin"
+    },
+    {
+      "date": "2001",
+      "description": "Chris Kraft's autobiography revealed meeting about first-step decision"
+    },
+    {
+      "date": "2005",
+      "description": "Don Eyles' Guidance and Control Conference paper on program alarms"
+    },
+    {
+      "date": "2010",
+      "description": "Armstrong interview explaining time and distance limits on first moonwalk"
+    }
+  ],
+  "entities": [
+    {
+      "name": "Apollo 11",
+      "type": "EVENT",
+      "description": "American spaceflight mission that first landed humans on the Moon in July 1969"
+    },
+    {
+      "name": "NASA",
+      "type": "ORGANIZATION",
+      "description": "National Aeronautics and Space Administration, operator of Apollo 11"
+    },
+    {
+      "name": "Neil Armstrong",
+      "type": "PERSON",
+      "description": "Commander of Apollo 11 and first human to walk on the Moon"
+    },
+    {
+      "name": "Michael Collins",
+      "type": "PERSON",
+      "description": "Command Module Pilot of Apollo 11"
+    },
+    {
+      "name": "Edwin \"Buzz\" Aldrin",
+      "type": "PERSON",
+      "description": "Lunar Module Pilot of Apollo 11, second person to walk on the Moon"
+    },
+    {
+      "name": "Saturn V",
+      "type": "PRODUCT",
+      "description": "Rocket used to launch Apollo 11 (SA-506/AS-506)"
+    },
+    {
+      "name": "Kennedy Space Center",
+      "type": "LOCATION",
+      "description": "Launch site of Apollo 11 in Florida, Launch Complex 39A"
+    },
+    {
+      "name": "USS Hornet",
+      "type": "ORGANIZATION",
+      "description": "Ship that recovered the Apollo 11 crew after splashdown"
+    },
+    {
+      "name": "Apollo command and service module (Columbia)",
+      "type": "PRODUCT",
+      "description": "Command and service module of Apollo 11, named Columbia"
+    },
+    {
+      "name": "Apollo Lunar Module (Eagle)",
+      "type": "PRODUCT",
+      "description": "Lunar lander module of Apollo 11, named Eagle"
+    },
+    {
+      "name": "Sea of Tranquility",
+      "type": "LOCATION",
+      "description": "Mare Tranquillitatis, landing site of Apollo 11 on the Moon"
+    },
+    {
+      "name": "Richard Nixon",
+      "type": "PERSON",
+      "description": "President of the United States who spoke with the astronauts on the Moon"
+    },
+    {
+      "name": "John F. Kennedy",
+      "type": "PERSON",
+      "description": "President who set the national goal of landing a man on the Moon"
+    },
+    {
+      "name": "Soviet Union",
+      "type": "ORGANIZATION",
+      "description": "Rival nation to the US in the Space Race"
+    },
+    {
+      "name": "United States",
+      "type": "LOCATION",
+      "description": "Country that conducted the Apollo 11 mission"
+    },
+    {
+      "name": "Luna 15",
+      "type": "PRODUCT",
+      "description": "Soviet uncrewed lunar probe that crashed on the Moon during Apollo 11 mission"
+    },
+    {
+      "name": "National Air and Space Museum",
+      "type": "ORGANIZATION",
+      "description": "Museum in Washington D.C. where Columbia is preserved"
+    },
+    {
+      "name": "Sputnik 1",
+      "type": "PRODUCT",
+      "description": "First artificial satellite launched by the Soviet Union in 1957"
+    },
+    {
+      "name": "Dwight D. Eisenhower",
+      "type": "PERSON",
+      "description": "US President who created NASA in response to Sputnik"
+    },
+    {
+      "name": "Yuri Gagarin",
+      "type": "PERSON",
+      "description": "Soviet cosmonaut, first person in space"
+    },
+    {
+      "name": "Alan Shepard",
+      "type": "PERSON",
+      "description": "First American in space"
+    },
+    {
+      "name": "Nikita Khrushchev",
+      "type": "PERSON",
+      "description": "Premier of the Soviet Union who declined Kennedy's joint Moon project proposal"
+    },
+    {
+      "name": "Norbert Wiener",
+      "type": "PERSON",
+      "description": "MIT mathematician who dubbed the Moon program a 'moondoggle'"
+    },
+    {
+      "name": "James Webb",
+      "type": "PERSON",
+      "description": "NASA head who announced lunar orbit rendezvous approach"
+    },
+    {
+      "name": "Project Gemini",
+      "type": "EVENT",
+      "description": "NASA program that developed technologies and techniques required for Apollo"
+    },
+    {
+      "name": "Project Mercury",
+      "type": "EVENT",
+      "description": "NASA program initiated by Eisenhower to place a man into Earth orbit"
+    },
+    {
+      "name": "Apollo 1",
+      "type": "EVENT",
+      "description": "Mission halted by fatal launchpad fire in January 1967"
+    },
+    {
+      "name": "Gus Grissom",
+      "type": "PERSON",
+      "description": "Astronaut who died in the Apollo 1 fire"
+    },
+    {
+      "name": "Ed White",
+      "type": "PERSON",
+      "description": "Astronaut who died in the Apollo 1 fire"
+    },
+    {
+      "name": "Roger B. Chaffee",
+      "type": "PERSON",
+      "description": "Astronaut who died in the Apollo 1 fire"
+    },
+    {
+      "name": "Apollo 7",
+      "type": "EVENT",
+      "description": "Mission that evaluated the command module in Earth orbit"
+    },
+    {
+      "name": "Apollo 8",
+      "type": "EVENT",
+      "description": "Mission that tested the command module in lunar orbit"
+    },
+    {
+      "name": "Apollo 9",
+      "type": "EVENT",
+      "description": "Mission that tested the lunar module in Earth orbit"
+    },
+    {
+      "name": "Apollo 10",
+      "type": "EVENT",
+      "description": "Mission that conducted a dress rehearsal in lunar orbit"
+    },
+    {
+      "name": "Jim Lovell",
+      "type": "PERSON",
+      "description": "Backup crew Commander for Apollo 11"
+    },
+    {
+      "name": "William Anders",
+      "type": "PERSON",
+      "description": "Backup crew Command Module Pilot for Apollo 11"
+    },
+    {
+      "name": "Fred Haise",
+      "type": "PERSON",
+      "description": "Backup crew Lunar Module Pilot for Apollo 11"
+    },
+    {
+      "name": "Ken Mattingly",
+      "type": "PERSON",
+      "description": "Backup CMP support crew member for Apollo 11"
+    },
+    {
+      "name": "Jack Swigert",
+      "type": "PERSON",
+      "description": "Replaced Mattingly on Apollo 13 due to measles exposure concerns"
+    },
+    {
+      "name": "Deke Slayton",
+      "type": "PERSON",
+      "description": "NASA official who assigned crews and gave Armstrong options on crew composition"
+    },
+    {
+      "name": "Ronald Evans",
+      "type": "PERSON",
+      "description": "Support crew member for Apollo 11"
+    },
+    {
+      "name": "Bill Pogue",
+      "type": "PERSON",
+      "description": "Support crew member for Apollo 11"
+    },
+    {
+      "name": "Charles Duke",
+      "type": "PERSON",
+      "description": "CAPCOM for Apollo 11 who communicated with Armstrong during landing"
+    },
+    {
+      "name": "Owen Garriott",
+      "type": "PERSON",
+      "description": "CAPCOM for Apollo 11"
+    },
+    {
+      "name": "Don L. Lind",
+      "type": "PERSON",
+      "description": "CAPCOM for Apollo 11"
+    },
+    {
+      "name": "Bruce McCandless II",
+      "type": "PERSON",
+      "description": "CAPCOM for Apollo 11"
+    },
+    {
+      "name": "Harrison Schmitt",
+      "type": "PERSON",
+      "description": "CAPCOM for Apollo 11"
+    },
+    {
+      "name": "Clifford E. Charlesworth",
+      "type": "PERSON",
+      "description": "Flight director for launch and EVA, Shift 1 Green team"
+    },
+    {
+      "name": "Gerald D. Griffin",
+      "type": "PERSON",
+      "description": "Flight director, backup for shift 1 Gold team"
+    },
+    {
+      "name": "Gene Kranz",
+      "type": "PERSON",
+      "description": "Flight director for lunar landing, Shift 2 White team"
+    },
+    {
+      "name": "Glynn Lunney",
+      "type": "PERSON",
+      "description": "Flight director for lunar ascent, Shift 3 Black team"
+    },
+    {
+      "name": "Milton Windler",
+      "type": "PERSON",
+      "description": "Flight director for planning, Shift 4 Maroon team"
+    },
+    {
+      "name": "Farouk El-Baz",
+      "type": "PERSON",
+      "description": "Geologist who identified landing locations and trained pilots"
+    },
+    {
+      "name": "Kurt Debus",
+      "type": "PERSON",
+      "description": "Rocket scientist who supervised construction of launch pads"
+    },
+    {
+      "name": "Jamye Flowers",
+      "type": "PERSON",
+      "description": "Secretary for astronauts"
+    },
+    {
+      "name": "Eleanor Foraker",
+      "type": "PERSON",
+      "description": "Tailor who designed space suits"
+    },
+    {
+      "name": "Jack Garman",
+      "type": "PERSON",
+      "description": "Computer engineer who advised on program alarms during landing"
+    },
+    {
+      "name": "Millicent Goldschmidt",
+      "type": "PERSON",
+      "description": "Microbiologist who designed aseptic lunar material collection techniques"
+    },
+    {
+      "name": "Eldon C. Hall",
+      "type": "PERSON",
+      "description": "Apollo Guidance Computer hardware designer"
+    },
+    {
+      "name": "Margaret Hamilton",
+      "type": "PERSON",
+      "description": "Director of Apollo Flight Computer Programming who designed onboard flight software"
+    },
+    {
+      "name": "Milton E. Harr",
+      "type": "PERSON",
+      "description": "Geotechnical engineer who designed footpads for the Lunar Module"
+    },
+    {
+      "name": "John Houbolt",
+      "type": "PERSON",
+      "description": "Route planner for Apollo missions"
+    },
+    {
+      "name": "Gene Shoemaker",
+      "type": "PERSON",
+      "description": "Geologist who trained astronauts in field geology"
+    },
+    {
+      "name": "Bill Tindall",
+      "type": "PERSON",
+      "description": "Coordinated mission techniques"
+    },
+    {
+      "name": "Bob Gilruth",
+      "type": "PERSON",
+      "description": "Director of the Manned Spacecraft Center who reviewed mission insignia design"
+    },
+    {
+      "name": "Julian Scheer",
+      "type": "PERSON",
+      "description": "Assistant manager for public affairs who suggested call sign naming"
+    },
+    {
+      "name": "George Low",
+      "type": "PERSON",
+      "description": "Manager of the Apollo Spacecraft Program Office"
+    },
+    {
+      "name": "George Mueller",
+      "type": "PERSON",
+      "description": "Associate Administrator who told reporters Aldrin would be first on the Moon"
+    },
+    {
+      "name": "Chris Kraft",
+      "type": "PERSON",
+      "description": "Author of 2001 autobiography revealing meeting about first-step decision"
+    },
+    {
+      "name": "Frank Borman",
+      "type": "PERSON",
+      "description": "Apollo astronaut and NASA liaison officer with Nixon during launch"
+    },
+    {
+      "name": "Madalyn Murray O'Hair",
+      "type": "PERSON",
+      "description": "Atheist who brought lawsuit against NASA over religious activities in space"
+    },
+    {
+      "name": "Dean Woodruff",
+      "type": "PERSON",
+      "description": "Pastor who prepared Aldrin's communion kit"
+    },
+    {
+      "name": "Webster Presbyterian Church",
+      "type": "ORGANIZATION",
+      "description": "Church where Aldrin was an elder, possesses lunar communion chalice"
+    },
+    {
+      "name": "Spiro Agnew",
+      "type": "PERSON",
+      "description": "Vice President who viewed the launch"
+    },
+    {
+      "name": "Lyndon B. Johnson",
+      "type": "PERSON",
+      "description": "Former president who viewed the launch with his wife"
+    },
+    {
+      "name": "Lady Bird Johnson",
+      "type": "PERSON",
+      "description": "Wife of Lyndon B. Johnson who viewed the launch"
+    },
+    {
+      "name": "William Westmoreland",
+      "type": "PERSON",
+      "description": "Chief of Staff of the United States Army who attended the launch"
+    },
+    {
+      "name": "Don Eyles",
+      "type": "PERSON",
+      "description": "Software engineer who analyzed program alarm causes in a 2005 paper"
+    },
+    {
+      "name": "Steve Bales",
+      "type": "PERSON",
+      "description": "Guidance Officer who advised continuing descent during program alarms"
+    },
+    {
+      "name": "MIT Charles Stark Draper Laboratory",
+      "type": "ORGANIZATION",
+      "description": "Laboratory where Margaret Hamilton worked on Apollo flight software"
+    },
+    {
+      "name": "Goldstone",
+      "type": "LOCATION",
+      "description": "Tracking station in the United States that received TV signal"
+    },
+    {
+      "name": "Honeysuckle Creek Tracking Station",
+      "type": "LOCATION",
+      "description": "Tracking station near Canberra, Australia that received TV signal"
+    },
+    {
+      "name": "Parkes Observatory",
+      "type": "LOCATION",
+      "description": "Radio telescope in Australia that received broadcast of moonwalk"
+    },
+    {
+      "name": "West crater",
+      "type": "LOCATION",
+      "description": "300-foot-diameter crater near the Apollo 11 landing site"
+    },
+    {
+      "name": "Little West Crater",
+      "type": "LOCATION",
+      "description": "Crater Armstrong walked to for photographs"
+    }
+  ],
+  "relationships": [
+    {
+      "subject": "Neil Armstrong",
+      "predicate": "commanded",
+      "object": "Apollo 11"
+    },
+    {
+      "subject": "Michael Collins",
+      "predicate": "served as Command Module Pilot for",
+      "object": "Apollo 11"
+    },
+    {
+      "subject": "Edwin \"Buzz\" Aldrin",
+      "predicate": "served as Lunar Module Pilot for",
+      "object": "Apollo 11"
+    },
+    {
+      "subject": "NASA",
+      "predicate": "operated",
+      "object": "Apollo 11"
+    },
+    {
+      "subject": "Apollo 11",
+      "predicate": "launched from",
+      "object": "Kennedy Space Center"
+    },
+    {
+      "subject": "Apollo 11",
+      "predicate": "launched atop",
+      "object": "Saturn V"
+    },
+    {
+      "subject": "USS Hornet",
+      "predicate": "recovered",
+      "object": "Apollo 11"
+    },
+    {
+      "subject": "Neil Armstrong",
+      "predicate": "landed on",
+      "object": "Sea of Tranquility"
+    },
+    {
+      "subject": "Edwin \"Buzz\" Aldrin",
+      "predicate": "landed on",
+      "object": "Sea of Tranquility"
+    },
+    {
+      "subject": "Neil Armstrong",
+      "predicate": "spoke with",
+      "object": "Richard Nixon"
+    },
+    {
+      "subject": "John F. Kennedy",
+      "predicate": "set goal for",
+      "object": "Apollo 11"
+    },
+    {
+      "subject": "Soviet Union",
+      "predicate": "competed with",
+      "object": "United States"
+    },
+    {
+      "subject": "Soviet Union",
+      "predicate": "launched",
+      "object": "Luna 15"
+    },
+    {
+      "subject": "Luna 15",
+      "predicate": "crashed on",
+      "object": "Sea of Tranquility"
+    },
+    {
+      "subject": "Apollo command and service module (Columbia)",
+      "predicate": "preserved at",
+      "object": "National Air and Space Museum"
+    },
+    {
+      "subject": "Apollo Lunar Module (Eagle)",
+      "predicate": "remains on",
+      "object": "Sea of Tranquility"
+    },
+    {
+      "subject": "Soviet Union",
+      "predicate": "launched",
+      "object": "Sputnik 1"
+    },
+    {
+      "subject": "Dwight D. Eisenhower",
+      "predicate": "created",
+      "object": "NASA"
+    },
+    {
+      "subject": "Dwight D. Eisenhower",
+      "predicate": "initiated",
+      "object": "Project Mercury"
+    },
+    {
+      "subject": "Yuri Gagarin",
+      "predicate": "became first person in space via",
+      "object": "Soviet Union"
+    },
+    {
+      "subject": "Alan Shepard",
+      "predicate": "became first American in space via",
+      "object": "Project Mercury"
+    },
+    {
+      "subject": "John F. Kennedy",
+      "predicate": "proposed joint Moon project to",
+      "object": "Nikita Khrushchev"
+    },
+    {
+      "subject": "James Webb",
+      "predicate": "announced approach for",
+      "object": "Apollo 11"
+    },
+    {
+      "subject": "Project Gemini",
+      "predicate": "developed technologies for",
+      "object": "Apollo 11"
+    },
+    {
+      "subject": "Gus Grissom",
+      "predicate": "died in",
+      "object": "Apollo 1"
+    },
+    {
+      "subject": "Ed White",
+      "predicate": "died in",
+      "object": "Apollo 1"
+    },
+    {
+      "subject": "Roger B. Chaffee",
+      "predicate": "died in",
+      "object": "Apollo 1"
+    },
+    {
+      "subject": "Jim Lovell",
+      "predicate": "served as backup Commander for",
+      "object": "Apollo 11"
+    },
+    {
+      "subject": "William Anders",
+      "predicate": "served as backup Command Module Pilot for",
+      "object": "Apollo 11"
+    },
+    {
+      "subject": "Fred Haise",
+      "predicate": "served as backup Lunar Module Pilot for",
+      "object": "Apollo 11"
+    },
+    {
+      "subject": "Deke Slayton",
+      "predicate": "assigned crew for",
+      "object": "Apollo 11"
+    },
+    {
+      "subject": "Charles Duke",
+      "predicate": "communicated with",
+      "object": "Neil Armstrong"
+    },
+    {
+      "subject": "Gene Kranz",
+      "predicate": "directed flight during",
+      "object": "Apollo 11"
+    },
+    {
+      "subject": "Margaret Hamilton",
+      "predicate": "designed software for",
+      "object": "Apollo Lunar Module (Eagle)"
+    },
+    {
+      "subject": "Bob Gilruth",
+      "predicate": "reviewed insignia design for",
+      "object": "Apollo 11"
+    },
+    {
+      "subject": "Julian Scheer",
+      "predicate": "suggested naming for",
+      "object": "Apollo command and service module (Columbia)"
+    },
+    {
+      "subject": "Chris Kraft",
+      "predicate": "revealed decision about",
+      "object": "Neil Armstrong"
+    },
+    {
+      "subject": "Frank Borman",
+      "predicate": "served as NASA liaison to",
+      "object": "Richard Nixon"
+    },
+    {
+      "subject": "Madalyn Murray O'Hair",
+      "predicate": "sued",
+      "object": "NASA"
+    },
+    {
+      "subject": "Dean Woodruff",
+      "predicate": "prepared communion kit for",
+      "object": "Edwin \"Buzz\" Aldrin"
+    },
+    {
+      "subject": "Edwin \"Buzz\" Aldrin",
+      "predicate": "was elder at",
+      "object": "Webster Presbyterian Church"
+    },
+    {
+      "subject": "Jack Garman",
+      "predicate": "advised",
+      "object": "Steve Bales"
+    },
+    {
+      "subject": "Parkes Observatory",
+      "predicate": "received broadcast from",
+      "object": "Apollo Lunar Module (Eagle)"
+    },
+    {
+      "subject": "Honeysuckle Creek Tracking Station",
+      "predicate": "received broadcast from",
+      "object": "Apollo Lunar Module (Eagle)"
+    },
+    {
+      "subject": "Goldstone",
+      "predicate": "received broadcast from",
+      "object": "Apollo Lunar Module (Eagle)"
+    }
+  ]
+}
