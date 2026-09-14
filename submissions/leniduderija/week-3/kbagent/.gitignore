@@ -5,3 +5,6 @@ __pycache__/
 *.egg-info/
 data/
 eval/answers.jsonl
+eval/results.csv
+eval/results.md
+.vscode/
