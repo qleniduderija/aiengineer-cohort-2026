@@ -1,0 +1,2 @@
+class BookStackAPIError(Exception):
+    pass
